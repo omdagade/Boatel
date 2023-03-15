@@ -1,0 +1,231 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Garamond", Times, serif;
+}
+
+
+
+.head1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 6rem;
+    width:99.8%;
+    
+    
+}
+
+#limg{
+    height: 5rem;
+    width: 11rem;
+    margin-right:60rem;
+    
+}
+
+#signimg{
+    height: 2.5rem;
+    width: 2.5rem;
+    cursor: pointer;
+}
+
+#losign{
+    font-size: 1rem;
+    margin-left: 1rem;
+    cursor: pointer;
+}
+#losign:hover{
+    transform: scale(1.2)
+}
+#signimg:hover{
+    transform: scale(1.2)
+}
+
+
+
+
+
+
+
+.head2{
+    display: flex;
+    align-items: center;
+    justify-content:left;
+    background-color: rgb(247, 49, 49);
+    border: .1rem solid black;
+    height: 3rem;
+    width:99.8%;
+}
+
+
+#hele{
+    color: white;
+    margin: 0 1.5rem;
+    font-size: 1.3rem;
+    text-decoration: none;
+}
+#hele:hover{
+    cursor: pointer;
+    transform: scale(1.2);
+}
+
+
+.searchhotel{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: .1rem solid black;
+    height: 7rem;
+}
+
+#mainhead{
+    color:rgb(247, 49, 49);
+    margin-top: 3rem;
+    padding: 2rem 26rem ;
+    font-size: 3rem;
+    
+}
+
+#pincode{
+    height: 3rem;
+    width: 30rem;
+    
+    border: .1rem solid rgb(247, 49, 49);
+    color: black;
+    font-size: 1rem;
+    padding-left: 1rem;
+}
+
+#searchbtn{
+    background-color: #1ab64f;
+    border: .1rem solid black;
+    cursor: pointer;
+    height: 3rem;
+    width: 8rem;
+    font-size: 1.2rem;
+    color: white;
+}
+#searchbtn:hover{
+    background-color: #057a2c;
+}
+
+
+
+#banner{
+    width:99.7%;
+}
+
+.footerele{
+	width: 100%;
+	height: 30rem;
+	background-color: black;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.foot1{
+	height: 17rem;
+	width: 28%;
+	padding: 2rem;
+	margin: 5rem;
+}
+
+#ftele1{
+	color: white;
+	padding-bottom: 1rem;
+}
+
+#ft1{
+	color: white;
+}
+
+#ftp1{
+	color: white;
+}
+
+#ftp1:hover{
+	color: red;
+	transform: scale(.9);
+	cursor: pointer;
+}
+
+#ftp2{
+	color: white;
+}
+
+#ftp3{
+	color:black;
+}
+
+.ftpp{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+}
+
+
+
+
+
+#about4{
+    font-size: 3rem;
+    margin: 1rem 30rem;
+    color: rgb(247, 49, 49) ;
+}
+
+#abt4{
+    height: 15rem;
+    width: 60rem;
+    border: .1rem solid rgb(247, 49, 49);
+    margin: 3rem 10rem;
+}
+
+#abt4 p{
+    font-size: 2rem;
+    margin:1.5rem;
+}
+
+
+
+
+
+
+
+#contact4{
+    font-size: 3rem;
+    margin: 1rem 33rem;
+    color: rgb(247, 49, 49) ;
+}
+
+#contactdiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: .1rem solid rgb(247, 49, 49);
+    width: 60rem;
+    margin: 6rem 13rem;
+}
+
+.form1ele{
+    height: 2rem;
+    width:15rem;
+    margin: 1rem;
+    color: black;
+    font-size: 1rem;
+    border: .1rem solid rgb(247, 49, 49);
+}
+
+#sub123{
+    height: 3rem;
+    width: 8rem;
+    background-color: rgb(247, 49, 49);
+    color: white;
+    font-size: 1rem;
+    margin: 2rem 4rem;
+
+}
+#sub123:hover{
+    transform: scale(.9);
+}
